@@ -84,7 +84,7 @@
         <dependency>
             <groupId>sqlworkbench</groupId>
             <artifactId>sqlworkbench</artifactId>
-            <version>118</version>
+            <version>119</version>
         </dependency>
     </dependencies>
 
